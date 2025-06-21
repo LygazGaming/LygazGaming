@@ -66,8 +66,6 @@ As a final-year Software Technology student with hands-on experience in full-sta
 ### 📊 A glimpse into my GitHub activity:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LygazGaming&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LygazGaming&theme=dracula" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=LygazGaming&theme=dracula" alt="Trophy" />
 </div>
 
 ---
