@@ -24,7 +24,7 @@ As a final-year Software Technology student with hands-on experience in full-sta
 -   🏸 **Focus Badminton E-commerce Mobile App**: A complete cross-platform e-commerce solution for badminton equipment, developed using **Flutter** and **Firebase**. Implements secure payment processing, inventory management, and user analytics. Successfully deployed on both iOS and Android platforms.
 -   💡 **E-learning Management System (In Development)**: A scalable e-learning platform utilizing **Next.js** for the frontend, **NestJS** for the backend API, and **PostgreSQL** for robust data management. Incorporates modern architectural patterns and microservices design principles.
 -   🎮 **VR Educational Experience with Unity**: An immersive virtual reality application designed for educational purposes, developed using **Unity** and C#. Explores 3D modeling, interactive design, and user experience optimization in VR environments.
--   📺 **[TheThinkBurst](www.youtube.com/@TheThinkBurst) - AI Content Platform**: A successful digital content creation initiative focused on Artificial Intelligence education. Produces engaging tutorials, industry insights, and technical discussions, reaching thousands of viewers across YouTube and TikTok platforms.
+-   📺 **[TheThinkBurst](https://youtube.com/@TheThinkBurst) - AI Content Platform**: A successful digital content creation initiative focused on Artificial Intelligence education. Produces engaging tutorials, industry insights, and technical discussions, reaching thousands of viewers across YouTube and TikTok platforms.
 
 ---
 
