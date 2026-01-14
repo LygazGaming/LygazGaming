@@ -60,12 +60,6 @@ As a final-year Software Technology student with hands-on experience in full-sta
 - **Academic Activities**:
   - 🖥️ **Member of HUFLIT Informatics Club** - Active participation in technical workshops, coding competitions, and knowledge sharing sessions
   - ❤️ **Member of HUFLIT Volunteer Club** - Contributing to community service projects and social initiatives
----
-
-### 📊 A glimpse into my GitHub activity:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LygazGaming&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-</div>
 
 ---
 
